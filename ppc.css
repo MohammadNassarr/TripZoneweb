@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding-bottom: 5%;
+    padding-left: 10%;
+    border-bottom:solid rgb(210, 210, 210) 1px;
+    padding-top: 2.5%;
+    background-color: #298b9b;
+    color: white;
+    font-size: 2.8vw;
+}
+
+body h2{
+    margin-left: 10%;
+    font-size: 2.5vw;
+    padding-bottom: 3.6%;
+    padding-top:2.53%;
+    color: rgb(30, 30, 30);
+    
+}
+body h3{
+   
+    font-size: 1.9vw;
+    padding-bottom: 3%;
+    border-bottom:  solid rgb(210, 210, 210) 1px;
+    margin-left: 10%;
+    color: rgb(30, 30, 30);
+}
+h3 span{
+   color: #298b9b;
+}
+body p{
+    margin-left: 10%;
+    padding-top: 1%;
+    font-size: 1.5vw;
+    padding-right: 19%;
+    padding-bottom: 2%;
+}
+
+.read h2,h3,p{
+    
+        font-family:  Arial,Helvetica,sans-serif
+ 
+}
+ .footer{
+    border-top: solid 1px rgb(205, 205, 205);
+    border-bottom: solid 1px rgb(205, 205, 205);
+    margin-left: -1%;
+    background-color: #298b9b;
+    height: 15%;
+    margin-top: 7%;
+   
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 5%;
+    text-align: center;
+    padding-right: 0%;
+    font-weight: bold;
+    margin-top: 3%;
+    font-size: 1.3vw;
+ 
+   
+  
+    
+}
+html,body{
+    width: 99.7%;
+    height: 100%;
+}
+#copy{
+    margin-left: 47%;
+    padding-right: 0%;
+    
+}
+#copy:hover{
+    color:  rgb(255, 255, 255);
+    
+}
+
+.footer a:hover{
+    color:rgb(177, 177, 177);
+    
+}
